@@ -31,7 +31,9 @@ Here are a few projects I’ve worked on:
 
 #Let's Connect-
 ⁠GitHub: https://github.com/Kirtishreg
+
 ⁠LinkedIn: linkedin.com/in/keerthi-gouni-2474aa200
+
 Email: trinkyreddi07@gmail.com
 
 
