@@ -30,7 +30,7 @@ Here are a few projects I’ve worked on:
    Tribute Page: A single-page web tribute built with HTML and CSS, honoring a notable individual through clean layout, biography content, and responsive design elements.
 
 #Let's Connect-
-⁠GitHub: 
+⁠GitHub: https://github.com/Kirtishreg
 ⁠LinkedIn: linkedin.com/in/keerthi-gouni-2474aa200
 Email: trinkyreddi07@gmail.com
 
